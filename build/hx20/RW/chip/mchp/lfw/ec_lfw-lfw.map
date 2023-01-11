@@ -1,0 +1,643 @@
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/hx20/RW/common/util-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/common/util-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/common/util-lfw.o
+ .text.find_base
+                0x0000000000000000       0x42 build/hx20/RW/common/util-lfw.o
+ .text.strlen   0x0000000000000000       0x10 build/hx20/RW/common/util-lfw.o
+ .text.strnlen  0x0000000000000000       0x12 build/hx20/RW/common/util-lfw.o
+ .text.isspace  0x0000000000000000       0x18 build/hx20/RW/common/util-lfw.o
+ .text.isdigit  0x0000000000000000        0xc build/hx20/RW/common/util-lfw.o
+ .text.isalpha  0x0000000000000000       0x10 build/hx20/RW/common/util-lfw.o
+ .text.isupper  0x0000000000000000        0xc build/hx20/RW/common/util-lfw.o
+ .text.isprint  0x0000000000000000        0xc build/hx20/RW/common/util-lfw.o
+ .text.tolower  0x0000000000000000        0xc build/hx20/RW/common/util-lfw.o
+ .text.strcasecmp
+                0x0000000000000000       0x28 build/hx20/RW/common/util-lfw.o
+ .text.strncasecmp
+                0x0000000000000000       0x32 build/hx20/RW/common/util-lfw.o
+ .text.strstr   0x0000000000000000       0x5a build/hx20/RW/common/util-lfw.o
+ .text.atoi     0x0000000000000000       0x46 build/hx20/RW/common/util-lfw.o
+ .text.strtoi   0x0000000000000000       0xaa build/hx20/RW/common/util-lfw.o
+ .text.strtoul  0x0000000000000000       0xda build/hx20/RW/common/util-lfw.o
+ .rodata.str1.1
+                0x0000000000000000       0x22 build/hx20/RW/common/util-lfw.o
+ .text.parse_bool
+                0x0000000000000000       0x68 build/hx20/RW/common/util-lfw.o
+ .text.memcmp   0x0000000000000000       0x1c build/hx20/RW/common/util-lfw.o
+ .text.safe_memcmp
+                0x0000000000000000       0x28 build/hx20/RW/common/util-lfw.o
+ .text.memcpy   0x0000000000000000       0x74 build/hx20/RW/common/util-lfw.o
+ .text.memmove  0x0000000000000000       0x8a build/hx20/RW/common/util-lfw.o
+ .text.memchr   0x0000000000000000       0x1c build/hx20/RW/common/util-lfw.o
+ .text.reverse  0x0000000000000000       0x1c build/hx20/RW/common/util-lfw.o
+ .text.strzcpy  0x0000000000000000       0x26 build/hx20/RW/common/util-lfw.o
+ .text.strncpy  0x0000000000000000       0x1a build/hx20/RW/common/util-lfw.o
+ .text.strncmp  0x0000000000000000       0x26 build/hx20/RW/common/util-lfw.o
+ .text.uint64divmod
+                0x0000000000000000       0x96 build/hx20/RW/common/util-lfw.o
+ .text.get_next_bit
+                0x0000000000000000       0x18 build/hx20/RW/common/util-lfw.o
+ .text.bytes_are_trivial
+                0x0000000000000000       0x28 build/hx20/RW/common/util-lfw.o
+ .text.is_aligned
+                0x0000000000000000       0x14 build/hx20/RW/common/util-lfw.o
+ .text.cond_init
+                0x0000000000000000        0xa build/hx20/RW/common/util-lfw.o
+ .text.cond_is  0x0000000000000000        0xe build/hx20/RW/common/util-lfw.o
+ .text.cond_set
+                0x0000000000000000       0x2a build/hx20/RW/common/util-lfw.o
+ .text.cond_went
+                0x0000000000000000       0x1c build/hx20/RW/common/util-lfw.o
+ .text.parse_offset_size
+                0x0000000000000000       0x68 build/hx20/RW/common/util-lfw.o
+ .text.hexdump  0x0000000000000000       0xac build/hx20/RW/common/util-lfw.o
+ .text.wait_for_ready
+                0x0000000000000000       0x14 build/hx20/RW/common/util-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/common/gpio-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/common/gpio-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_config_pin
+                0x0000000000000000       0x18 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_set_flags
+                0x0000000000000000       0x14 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_get_default_flags
+                0x0000000000000000       0x10 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_reset
+                0x0000000000000000       0x24 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_get_name
+                0x0000000000000000        0xc build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_is_implemented
+                0x0000000000000000       0x14 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_get_ternary
+                0x0000000000000000       0x50 build/hx20/RW/common/gpio-lfw.o
+ .rodata.str1.1
+                0x0000000000000000       0x30 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_set_level_verbose
+                0x0000000000000000       0x40 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_or_ioex_set_level
+                0x0000000000000000        0x6 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_or_ioex_get_level
+                0x0000000000000000       0x10 build/hx20/RW/common/gpio-lfw.o
+ .text.signal_is_gpio
+                0x0000000000000000        0x8 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_set_wakepin
+                0x0000000000000000        0x2 build/hx20/RW/common/gpio-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/spi-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/spi-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/chip/mchp/spi-lfw.o
+ .text.spi_transaction_wait
+                0x0000000000000000        0xe build/hx20/RW/chip/mchp/spi-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .text.qmspi_transaction_wait
+                0x0000000000000000       0x18 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/dma-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/dma-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.prepare_channel
+                0x0000000000000000       0x3c build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_get_channel
+                0x0000000000000000       0x12 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_disable_all
+                0x0000000000000000       0x3c build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_go   0x0000000000000000       0x10 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_go_chan
+                0x0000000000000000       0x1c build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_prepare_tx
+                0x0000000000000000       0x24 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_xfr_prepare_tx
+                0x0000000000000000       0x30 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_start_rx
+                0x0000000000000000       0x2c build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_xfr_start_rx
+                0x0000000000000000       0x60 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_bytes_done
+                0x0000000000000000        0xc build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_is_enabled
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_bytes_done_chan
+                0x0000000000000000       0x28 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_wait
+                0x0000000000000000       0x60 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_is_done_chan
+                0x0000000000000000       0x18 build/hx20/RW/chip/mchp/dma-lfw.o
+ .text.dma_crc32_start
+                0x0000000000000000       0x7c build/hx20/RW/chip/mchp/dma-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_interrupt
+                0x0000000000000000       0x70 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_init
+                0x0000000000000000       0x68 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_get_level
+                0x0000000000000000       0x30 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_set_level
+                0x0000000000000000       0x38 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_power_off_by_mask
+                0x0000000000000000       0x2c build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_power_off
+                0x0000000000000000       0x30 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_enable_interrupt
+                0x0000000000000000       0x4c build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_disable_interrupt
+                0x0000000000000000       0x38 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_clear_pending_interrupt
+                0x0000000000000000       0x44 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.gpio_pre_init
+                0x0000000000000000       0x38 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.__girq_8_interrupt
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.__girq_9_interrupt
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.__girq_10_interrupt
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.__girq_11_interrupt
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.__girq_12_interrupt
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.__girq_26_interrupt
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.irq_0_handler
+                0x0000000000000000       0x14 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.irq_1_handler
+                0x0000000000000000       0x14 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.irq_2_handler
+                0x0000000000000000       0x14 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.irq_3_handler
+                0x0000000000000000       0x14 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.irq_4_handler
+                0x0000000000000000       0x14 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text.irq_17_handler
+                0x0000000000000000       0x14 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .rodata        0x0000000000000000        0xc build/hx20/RW/chip/mchp/gpio-lfw.o
+ .rodata.HOOK_INIT
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .rodata.irqprio
+                0x0000000000000000        0xc build/hx20/RW/chip/mchp/gpio-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/clock-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/clock-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/chip/mchp/clock-lfw.o
+ .text.clock_turbo_disable
+                0x0000000000000000       0x10 build/hx20/RW/chip/mchp/clock-lfw.o
+ .text.clock_wait_cycles
+                0x0000000000000000        0x6 build/hx20/RW/chip/mchp/clock-lfw.o
+ .text.clock_get_freq
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/clock-lfw.o
+ .text.htimer_init
+                0x0000000000000000       0x30 build/hx20/RW/chip/mchp/clock-lfw.o
+ .text.system_set_htimer_alarm
+                0x0000000000000000       0x54 build/hx20/RW/chip/mchp/clock-lfw.o
+ .rodata.HOOK_INIT
+                0x0000000000000000        0x8 build/hx20/RW/chip/mchp/clock-lfw.o
+ .rodata.deferred
+                0x0000000000000000        0x4 build/hx20/RW/chip/mchp/clock-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.configure_timer
+                0x0000000000000000       0x32 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.__hw_clock_event_set
+                0x0000000000000000       0x1e build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.__hw_clock_event_get
+                0x0000000000000000       0x12 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.__hw_clock_event_clear
+                0x0000000000000000       0x12 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.__hw_clock_source_irq_0
+                0x0000000000000000       0x24 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.irq_140_handler
+                0x0000000000000000       0x14 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.__hw_clock_source_irq_1
+                0x0000000000000000       0x24 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.irq_141_handler
+                0x0000000000000000       0x14 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text.__hw_clock_source_init
+                0x0000000000000000       0x60 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .rodata.irqprio
+                0x0000000000000000        0x4 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .debug_info    0x0000000000000000       0x5e build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .debug_abbrev  0x0000000000000000       0x26 build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .debug_aranges
+                0x0000000000000000       0x18 build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .debug_line    0x0000000000000000       0x31 build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .debug_str     0x0000000000000000      0x1d4 build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .comment       0x0000000000000000       0x27 build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .ARM.attributes
+                0x0000000000000000       0x2c build/hx20/RW/chip/mchp/tfdp-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .text.uart_getc
+                0x0000000000000000       0x18 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .text.system_get_image_copy
+                0x0000000000000000       0x10 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .text          0x0000000000000000        0x0 build/hx20/RW/common/version.o
+ .data          0x0000000000000000        0x0 build/hx20/RW/common/version.o
+ .bss           0x0000000000000000        0x0 build/hx20/RW/common/version.o
+ .text.ver_get_num_commits
+                0x0000000000000000       0x52 build/hx20/RW/common/version.o
+ .rodata.buildinfo
+                0x0000000000000000       0x3a build/hx20/RW/common/version.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+VECTOR           0x00000000000e0000 0x0000000000000018 r
+SRAM             0x00000000000e0018 0x0000000000000fe8 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/hx20/RW/common/util-lfw.o
+LOAD build/hx20/RW/common/gpio-lfw.o
+LOAD build/hx20/RW/chip/mchp/spi-lfw.o
+LOAD build/hx20/RW/chip/mchp/qmspi-lfw.o
+LOAD build/hx20/RW/chip/mchp/dma-lfw.o
+LOAD build/hx20/RW/chip/mchp/gpio-lfw.o
+LOAD build/hx20/RW/chip/mchp/clock-lfw.o
+LOAD build/hx20/RW/chip/mchp/hwtimer-lfw.o
+LOAD build/hx20/RW/chip/mchp/tfdp-lfw.o
+LOAD build/hx20/RW/core/cortex-m/cpu-lfw.o
+LOAD build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+LOAD build/hx20/RW/common/version.o
+                0x0000000000000001                ASSERT (((ORIGIN (VECTOR) + LENGTH (VECTOR)) == ORIGIN (SRAM)), Invalid SRAM origin.)
+                0x0000000000000001                ASSERT (((LENGTH (VECTOR) + LENGTH (SRAM)) == 0x1000), Invalid VECTOR+SRAM length.)
+                0x000000000011f000                PROVIDE (lfw_stack_top = 0x11f000)
+
+.intvector      0x00000000000e0000       0x18
+                0x00000000000e0000                . = ALIGN (0x4)
+ *(.intvector)
+ .intvector     0x00000000000e0000       0x18 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e0000                hdr_int_vect
+
+.text           0x00000000000e0018      0xb44
+                0x00000000000e0018                . = ALIGN (0x4)
+                0x00000000000e0018                __image_data_offset = .
+ *(.rodata.ver)
+ .rodata.ver    0x00000000000e0018       0x30 build/hx20/RW/common/version.o
+                0x00000000000e0018                current_image_data
+ *(.text .text.*)
+ .text.memset   0x00000000000e0048       0x5e build/hx20/RW/common/util-lfw.o
+                0x00000000000e0048                memset
+ *fill*         0x00000000000e00a6        0x2 
+ .text.gpio_config_pins
+                0x00000000000e00a8       0x88 build/hx20/RW/common/gpio-lfw.o
+ .text.gpio_config_module
+                0x00000000000e0130        0xc build/hx20/RW/common/gpio-lfw.o
+                0x00000000000e0130                gpio_config_module
+ .text.spi_dma_option
+                0x00000000000e013c       0x14 build/hx20/RW/chip/mchp/spi-lfw.o
+                0x00000000000e013c                spi_dma_option
+ .text.spi_transaction_async
+                0x00000000000e0150       0x14 build/hx20/RW/chip/mchp/spi-lfw.o
+                0x00000000000e0150                spi_transaction_async
+ .text.spi_transaction_flush
+                0x00000000000e0164        0xe build/hx20/RW/chip/mchp/spi-lfw.o
+                0x00000000000e0164                spi_transaction_flush
+ .text.spi_transaction
+                0x00000000000e0172       0x22 build/hx20/RW/chip/mchp/spi-lfw.o
+                0x00000000000e0172                spi_transaction
+ .text.spi_enable
+                0x00000000000e0194       0x24 build/hx20/RW/chip/mchp/spi-lfw.o
+                0x00000000000e0194                spi_enable
+ .text.qmspi_descr_alloc
+                0x00000000000e01b8       0x58 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .text.qmspi_cfg_irq_start
+                0x00000000000e0210       0x34 build/hx20/RW/chip/mchp/qmspi-lfw.o
+                0x00000000000e0210                qmspi_cfg_irq_start
+ .text.qmspi_xfr
+                0x00000000000e0244      0x190 build/hx20/RW/chip/mchp/qmspi-lfw.o
+                0x00000000000e0244                qmspi_xfr
+ .text.qmspi_transaction_async
+                0x00000000000e03d4       0x2c build/hx20/RW/chip/mchp/qmspi-lfw.o
+                0x00000000000e03d4                qmspi_transaction_async
+ .text.qmspi_transaction_flush
+                0x00000000000e0400       0x94 build/hx20/RW/chip/mchp/qmspi-lfw.o
+                0x00000000000e0400                qmspi_transaction_flush
+ .text.qmspi_enable
+                0x00000000000e0494       0x5c build/hx20/RW/chip/mchp/qmspi-lfw.o
+                0x00000000000e0494                qmspi_enable
+ .text.dma_disable
+                0x00000000000e04f0       0x30 build/hx20/RW/chip/mchp/dma-lfw.o
+                0x00000000000e04f0                dma_disable
+ .text.dma_init
+                0x00000000000e0520       0x24 build/hx20/RW/chip/mchp/dma-lfw.o
+                0x00000000000e0520                dma_init
+ .text.dma_clear_isr
+                0x00000000000e0544       0x14 build/hx20/RW/chip/mchp/dma-lfw.o
+                0x00000000000e0544                dma_clear_isr
+ .text.dma_cfg_buffers
+                0x00000000000e0558       0x20 build/hx20/RW/chip/mchp/dma-lfw.o
+                0x00000000000e0558                dma_cfg_buffers
+ .text.dma_cfg_xfr
+                0x00000000000e0578       0x3c build/hx20/RW/chip/mchp/dma-lfw.o
+                0x00000000000e0578                dma_cfg_xfr
+ .text.dma_clr_chan
+                0x00000000000e05b4       0x3c build/hx20/RW/chip/mchp/dma-lfw.o
+                0x00000000000e05b4                dma_clr_chan
+ .text.dma_run  0x00000000000e05f0       0x24 build/hx20/RW/chip/mchp/dma-lfw.o
+                0x00000000000e05f0                dma_run
+ .text.gpio_set_alternate_function
+                0x00000000000e0614       0x3c build/hx20/RW/chip/mchp/gpio-lfw.o
+                0x00000000000e0614                gpio_set_alternate_function
+ .text.gpio_set_flags_by_mask
+                0x00000000000e0650       0xf2 build/hx20/RW/chip/mchp/gpio-lfw.o
+                0x00000000000e0650                gpio_set_flags_by_mask
+ *fill*         0x00000000000e0742        0x2 
+ .text.clock_init
+                0x00000000000e0744       0x30 build/hx20/RW/chip/mchp/clock-lfw.o
+                0x00000000000e0744                clock_init
+ .text.__hw_clock_source_read
+                0x00000000000e0774        0xc build/hx20/RW/chip/mchp/hwtimer-lfw.o
+                0x00000000000e0774                __hw_clock_source_read
+ .text.__hw_clock_source_set
+                0x00000000000e0780       0x24 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+                0x00000000000e0780                __hw_clock_source_set
+ .text.cpu_init
+                0x00000000000e07a4       0x1e build/hx20/RW/core/cortex-m/cpu-lfw.o
+                0x00000000000e07a4                cpu_init
+ .text.timer_init
+                0x00000000000e07c2       0x50 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e07c2                timer_init
+ *fill*         0x00000000000e0812        0x2 
+ .text.spi_image_load
+                0x00000000000e0814       0x74 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e0814                spi_image_load
+ .text.udelay   0x00000000000e0888       0x16 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e0888                udelay
+ *fill*         0x00000000000e089e        0x2 
+ .text.fault_handler
+                0x00000000000e08a0       0x18 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e08a0                fault_handler
+ .text.usleep   0x00000000000e08b8        0x4 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e08b8                usleep
+ .text.timestamp_expired
+                0x00000000000e08bc       0x26 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e08bc                timestamp_expired
+ .text.get_time
+                0x00000000000e08e2       0x12 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e08e2                get_time
+ .text.uart_write_c
+                0x00000000000e08f4       0x20 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e08f4                uart_write_c
+ .text.uart_puts
+                0x00000000000e0914       0x16 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e0914                uart_puts
+ .text.jump_to_image
+                0x00000000000e092a        0x2 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e092a                jump_to_image
+ .text.uart_init
+                0x00000000000e092c       0x58 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e092c                uart_init
+ .text.system_init
+                0x00000000000e0984       0x28 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e0984                system_init
+ .text.lfw_main
+                0x00000000000e09ac       0xdc build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e09ac                lfw_main
+ *(.rodata .rodata.*)
+ .rodata        0x00000000000e0a88       0x57 build/hx20/RW/common/gpio-lfw.o
+ *fill*         0x00000000000e0adf        0x1 
+ .rodata        0x00000000000e0ae0       0x18 build/hx20/RW/chip/mchp/spi-lfw.o
+ .rodata.str1.1
+                0x00000000000e0af8       0x40 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                                         0x42 (size before relaxing)
+ .rodata        0x00000000000e0b38       0x24 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                0x00000000000e0b38                spi_devices
+                0x00000000000e0b3c                spi_devices_used
+                0x00000000000e0b40                ioex_ih_count
+                0x00000000000e0b44                gpio_ih_count
+                0x00000000000e0b44                ioex_irq_handlers
+                0x00000000000e0b44                ioex_list
+                0x00000000000e0b48                unused_pin_count
+                0x00000000000e0b48                gpio_irq_handlers
+                0x00000000000e0b4c                gpio_list
+                0x00000000000e0b4c                unused_pin_list
+
+.glue_7         0x00000000000e0b5c        0x0
+ .glue_7        0x00000000000e0b5c        0x0 linker stubs
+
+.glue_7t        0x00000000000e0b5c        0x0
+ .glue_7t       0x00000000000e0b5c        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000e0b5c        0x0
+ .vfp11_veneer  0x00000000000e0b5c        0x0 linker stubs
+
+.v4_bx          0x00000000000e0b5c        0x0
+ .v4_bx         0x00000000000e0b5c        0x0 linker stubs
+
+.iplt           0x00000000000e0b5c        0x0
+ .iplt          0x00000000000e0b5c        0x0 build/hx20/RW/common/gpio-lfw.o
+
+.rel.dyn        0x00000000000e0b5c        0x0
+ .rel.iplt      0x00000000000e0b5c        0x0 build/hx20/RW/common/gpio-lfw.o
+                0x00000000000e0b5c                . = ALIGN (0x4)
+
+.fill           0x00000000000e0b5c      0x4a4
+ FILL mask 0xff
+                0x00000000000e0fff                . = ((ORIGIN (SRAM) + LENGTH (SRAM)) - 0x1)
+ *fill*         0x00000000000e0b5c      0x4a3 ff
+                0x00000000000e0fff        0x1 BYTE 0xff
+                0x0000000000000b5c                __image_size = ((LOADADDR (.text) + SIZEOF (.text)) - ORIGIN (VECTOR))
+OUTPUT(build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.elf elf32-littlearm)
+LOAD linker stubs
+
+.igot.plt       0x00000000000e1000        0x0
+ .igot.plt      0x00000000000e1000        0x0 build/hx20/RW/common/gpio-lfw.o
+
+.debug_info     0x0000000000000000     0x69e0
+ .debug_info    0x0000000000000000     0x1488 build/hx20/RW/common/util-lfw.o
+ .debug_info    0x0000000000001488      0xc49 build/hx20/RW/common/gpio-lfw.o
+ .debug_info    0x00000000000020d1      0x725 build/hx20/RW/chip/mchp/spi-lfw.o
+ .debug_info    0x00000000000027f6      0xd28 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .debug_info    0x000000000000351e      0xaf0 build/hx20/RW/chip/mchp/dma-lfw.o
+ .debug_info    0x000000000000400e      0xd3f build/hx20/RW/chip/mchp/gpio-lfw.o
+ .debug_info    0x0000000000004d4d      0x3c8 build/hx20/RW/chip/mchp/clock-lfw.o
+ .debug_info    0x0000000000005115      0x32c build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .debug_info    0x0000000000005441       0xea build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .debug_info    0x000000000000552b      0xf5d build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .debug_info    0x0000000000006488      0x558 build/hx20/RW/common/version.o
+
+.debug_abbrev   0x0000000000000000     0x1e4b
+ .debug_abbrev  0x0000000000000000      0x381 build/hx20/RW/common/util-lfw.o
+ .debug_abbrev  0x0000000000000381      0x301 build/hx20/RW/common/gpio-lfw.o
+ .debug_abbrev  0x0000000000000682      0x233 build/hx20/RW/chip/mchp/spi-lfw.o
+ .debug_abbrev  0x00000000000008b5      0x3a1 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .debug_abbrev  0x0000000000000c56      0x389 build/hx20/RW/chip/mchp/dma-lfw.o
+ .debug_abbrev  0x0000000000000fdf      0x352 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .debug_abbrev  0x0000000000001331      0x1d6 build/hx20/RW/chip/mchp/clock-lfw.o
+ .debug_abbrev  0x0000000000001507      0x243 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .debug_abbrev  0x000000000000174a       0x80 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .debug_abbrev  0x00000000000017ca      0x49c build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .debug_abbrev  0x0000000000001c66      0x1e5 build/hx20/RW/common/version.o
+
+.debug_loclists
+                0x0000000000000000     0x2d02
+ .debug_loclists
+                0x0000000000000000     0x1164 build/hx20/RW/common/util-lfw.o
+ .debug_loclists
+                0x0000000000001164      0x318 build/hx20/RW/common/gpio-lfw.o
+ .debug_loclists
+                0x000000000000147c      0x23b build/hx20/RW/chip/mchp/spi-lfw.o
+ .debug_loclists
+                0x00000000000016b7      0x735 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .debug_loclists
+                0x0000000000001dec      0x685 build/hx20/RW/chip/mchp/dma-lfw.o
+ .debug_loclists
+                0x0000000000002471      0x443 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .debug_loclists
+                0x00000000000028b4       0xce build/hx20/RW/chip/mchp/clock-lfw.o
+ .debug_loclists
+                0x0000000000002982       0xa2 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .debug_loclists
+                0x0000000000002a24      0x23e build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .debug_loclists
+                0x0000000000002c62       0xa0 build/hx20/RW/common/version.o
+
+.debug_aranges  0x0000000000000000      0x588
+ .debug_aranges
+                0x0000000000000000      0x140 build/hx20/RW/common/util-lfw.o
+ .debug_aranges
+                0x0000000000000140       0x88 build/hx20/RW/common/gpio-lfw.o
+ .debug_aranges
+                0x00000000000001c8       0x48 build/hx20/RW/chip/mchp/spi-lfw.o
+ .debug_aranges
+                0x0000000000000210       0x50 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .debug_aranges
+                0x0000000000000260       0xc8 build/hx20/RW/chip/mchp/dma-lfw.o
+ .debug_aranges
+                0x0000000000000328       0xd8 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .debug_aranges
+                0x0000000000000400       0x48 build/hx20/RW/chip/mchp/clock-lfw.o
+ .debug_aranges
+                0x0000000000000448       0x70 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .debug_aranges
+                0x00000000000004b8       0x20 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .debug_aranges
+                0x00000000000004d8       0x90 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .debug_aranges
+                0x0000000000000568       0x20 build/hx20/RW/common/version.o
+
+.debug_rnglists
+                0x0000000000000000      0x49e
+ .debug_rnglists
+                0x0000000000000000      0x135 build/hx20/RW/common/util-lfw.o
+ .debug_rnglists
+                0x0000000000000135       0x6e build/hx20/RW/common/gpio-lfw.o
+ .debug_rnglists
+                0x00000000000001a3       0x31 build/hx20/RW/chip/mchp/spi-lfw.o
+ .debug_rnglists
+                0x00000000000001d4       0x5d build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .debug_rnglists
+                0x0000000000000231       0x91 build/hx20/RW/chip/mchp/dma-lfw.o
+ .debug_rnglists
+                0x00000000000002c2       0x9e build/hx20/RW/chip/mchp/gpio-lfw.o
+ .debug_rnglists
+                0x0000000000000360       0x31 build/hx20/RW/chip/mchp/clock-lfw.o
+ .debug_rnglists
+                0x0000000000000391       0x4f build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .debug_rnglists
+                0x00000000000003e0       0x13 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .debug_rnglists
+                0x00000000000003f3       0x77 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .debug_rnglists
+                0x000000000000046a       0x34 build/hx20/RW/common/version.o
+
+.debug_line     0x0000000000000000     0x3487
+ .debug_line    0x0000000000000000      0xf4e build/hx20/RW/common/util-lfw.o
+ .debug_line    0x0000000000000f4e      0x3bf build/hx20/RW/common/gpio-lfw.o
+ .debug_line    0x000000000000130d      0x1eb build/hx20/RW/chip/mchp/spi-lfw.o
+ .debug_line    0x00000000000014f8      0x5ef build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .debug_line    0x0000000000001ae7      0x701 build/hx20/RW/chip/mchp/dma-lfw.o
+ .debug_line    0x00000000000021e8      0x6d3 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .debug_line    0x00000000000028bb      0x1e7 build/hx20/RW/chip/mchp/clock-lfw.o
+ .debug_line    0x0000000000002aa2      0x259 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .debug_line    0x0000000000002cfb       0x74 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .debug_line    0x0000000000002d6f      0x5ce build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .debug_line    0x000000000000333d      0x14a build/hx20/RW/common/version.o
+
+.debug_str      0x0000000000000000     0x258c
+ .debug_str     0x0000000000000000      0x887 build/hx20/RW/common/util-lfw.o
+                                        0x8df (size before relaxing)
+ .debug_str     0x0000000000000887      0x5c0 build/hx20/RW/common/gpio-lfw.o
+                                        0xc66 (size before relaxing)
+ .debug_str     0x0000000000000e47      0x469 build/hx20/RW/chip/mchp/spi-lfw.o
+                                        0xa88 (size before relaxing)
+ .debug_str     0x00000000000012b0      0x13d build/hx20/RW/chip/mchp/qmspi-lfw.o
+                                        0xb3e (size before relaxing)
+ .debug_str     0x00000000000013ed      0x1c7 build/hx20/RW/chip/mchp/dma-lfw.o
+                                        0x8cb (size before relaxing)
+ .debug_str     0x00000000000015b4      0x586 build/hx20/RW/chip/mchp/gpio-lfw.o
+                                        0xeea (size before relaxing)
+ .debug_str     0x0000000000001b3a       0xc6 build/hx20/RW/chip/mchp/clock-lfw.o
+                                        0x788 (size before relaxing)
+ .debug_str     0x0000000000001c00      0x141 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+                                        0x3c5 (size before relaxing)
+ .debug_str     0x0000000000001d41      0x13a build/hx20/RW/core/cortex-m/cpu-lfw.o
+                                        0x301 (size before relaxing)
+ .debug_str     0x0000000000001e7b      0x246 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+                                        0xe74 (size before relaxing)
+ .debug_str     0x00000000000020c1      0x4cb build/hx20/RW/common/version.o
+                                        0xa49 (size before relaxing)
+
+.comment        0x0000000000000000       0x26
+ .comment       0x0000000000000000       0x26 build/hx20/RW/common/util-lfw.o
+                                         0x27 (size before relaxing)
+ .comment       0x0000000000000026       0x27 build/hx20/RW/common/gpio-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/chip/mchp/spi-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/chip/mchp/dma-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/chip/mchp/clock-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .comment       0x0000000000000026       0x27 build/hx20/RW/common/version.o
+
+.ARM.attributes
+                0x0000000000000000       0x2c
+ .ARM.attributes
+                0x0000000000000000       0x2c build/hx20/RW/common/util-lfw.o
+ .ARM.attributes
+                0x000000000000002c       0x2c build/hx20/RW/common/gpio-lfw.o
+ .ARM.attributes
+                0x0000000000000058       0x2c build/hx20/RW/chip/mchp/spi-lfw.o
+ .ARM.attributes
+                0x0000000000000084       0x2c build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .ARM.attributes
+                0x00000000000000b0       0x2c build/hx20/RW/chip/mchp/dma-lfw.o
+ .ARM.attributes
+                0x00000000000000dc       0x2c build/hx20/RW/chip/mchp/gpio-lfw.o
+ .ARM.attributes
+                0x0000000000000108       0x2c build/hx20/RW/chip/mchp/clock-lfw.o
+ .ARM.attributes
+                0x0000000000000134       0x2c build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .ARM.attributes
+                0x0000000000000160       0x2c build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .ARM.attributes
+                0x000000000000018c       0x2c build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .ARM.attributes
+                0x00000000000001b8       0x2c build/hx20/RW/common/version.o
+
+.debug_frame    0x0000000000000000      0xd3c
+ .debug_frame   0x0000000000000000      0x398 build/hx20/RW/common/util-lfw.o
+ .debug_frame   0x0000000000000398      0x148 build/hx20/RW/common/gpio-lfw.o
+ .debug_frame   0x00000000000004e0       0x98 build/hx20/RW/chip/mchp/spi-lfw.o
+ .debug_frame   0x0000000000000578       0xf0 build/hx20/RW/chip/mchp/qmspi-lfw.o
+ .debug_frame   0x0000000000000668      0x1ec build/hx20/RW/chip/mchp/dma-lfw.o
+ .debug_frame   0x0000000000000854      0x210 build/hx20/RW/chip/mchp/gpio-lfw.o
+ .debug_frame   0x0000000000000a64       0x78 build/hx20/RW/chip/mchp/clock-lfw.o
+ .debug_frame   0x0000000000000adc       0xc8 build/hx20/RW/chip/mchp/hwtimer-lfw.o
+ .debug_frame   0x0000000000000ba4       0x20 build/hx20/RW/core/cortex-m/cpu-lfw.o
+ .debug_frame   0x0000000000000bc4      0x150 build/hx20/RW/chip/mchp/lfw/ec_lfw-lfw.o
+ .debug_frame   0x0000000000000d14       0x28 build/hx20/RW/common/version.o
